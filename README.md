@@ -33,7 +33,6 @@ flowchart LR
 6. [Step 5 — Install the Cluster](#step-5--install-the-cluster)  
 7. [Step 6 — Verify Access](#step-6--verify-access)  
 8. [Step 7 — Secure and Harden the Cluster](#step-7--secure-and-harden-the-cluster)  
-9. [Final Notes](#final-notes)
 
 ---
 ## 📌 Prerequisites  
