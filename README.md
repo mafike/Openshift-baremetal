@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](#)
 
 A **step-by-step guide** to building a **Single Node OpenShift (SNO)** cluster on a **€37.30 (~$44) Hetzner Dedicated AX41-NVMe bare-metal server** using the **Red Hat Assisted Installer**.  
+To read the full blog about this project, please visit <https://medium.com/@mafkgense/d1c6a6356e5e>
 
 Most guides assume you either have a workstation with excessive hardware or that you’ll settle for Red Hat’s sandbox, which blocks real admin work. If you want the full OpenShift experience API, console, TLS, and user management—without buying a rack of servers, this guide shows how to build a Single Node OpenShift (SNO) cluster on a $44 Hetzner bare-metal server using the Assisted Installer.
 It’s affordable, repeatable, and ideal for hands-on learning.
