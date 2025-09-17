@@ -2,7 +2,6 @@
 [![Red Hat OpenShift](https://img.shields.io/badge/OpenShift-4.x-red?logo=redhatopenshift&logoColor=white)](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 [![Hetzner](https://img.shields.io/badge/Hetzner-Bare%20Metal-orange?logo=hetzner&logoColor=white)](https://www.hetzner.com/dedicated-root-server)
 [![TLS](https://img.shields.io/badge/TLS-Let%27s%20Encrypt-blue?logo=letsencrypt&logoColor=white)](https://letsencrypt.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](#)
 
 A **step-by-step guide** to building a **Single Node OpenShift (SNO)** cluster on a **€37.30 (~$44) Hetzner Dedicated AX41-NVMe bare-metal server** using the **Red Hat Assisted Installer**.  
 To read the full blog about this project, please visit <https://medium.com/@mafkgense/d1c6a6356e5e>
